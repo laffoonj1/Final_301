@@ -1,0 +1,2 @@
+SELECT productname
+FROM final_products
